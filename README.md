@@ -10,7 +10,7 @@ Table of Contents
 6. License and Acknowledgement
 
 ## Project Summary
-The Capstone project was carried out with the support of the competition made available by[Driven Data] (https://https://www.drivendata.org/).  Following the 2015 Gorkha earthquake in Nepal a survey was carried out by  [Living Labs](http://www.kathmandulivinglabs.org/) and the [Central Bureau of Statistics](https://cbs.gov.np/), the survey is one of the largest post-disaster datasets ever collected, containing valuable information on earthquake impacts, household conditions, and socio-economic-demographic statistics.
+The Capstone project was carried out with the support of the competition made available by [Driven Data](https://https://www.drivendata.org/).  Following the 2015 Gorkha earthquake in Nepal a survey was carried out by  [Living Labs](http://www.kathmandulivinglabs.org/) and the [Central Bureau of Statistics](https://cbs.gov.np/), the survey is one of the largest post-disaster datasets ever collected, containing valuable information on earthquake impacts, household conditions, and socio-economic-demographic statistics.
 
  * Business Case
  
@@ -20,7 +20,7 @@ Predicting Earthquake damage grade level has been a much needed and important re
  
 Based on aspects of building location and construction, the goal is to analyze predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal
 ## Motivation
-The project was carried out ot help investigators effectively manage, monitor and detect the damage caused on the buildings following the effect of an earthquake on buildings
+The project was carried out ot help investigators effectively manage, monitor and detect the damage caused on the buildings following the effect of an earthquake 
 
 
 ## File Discription
