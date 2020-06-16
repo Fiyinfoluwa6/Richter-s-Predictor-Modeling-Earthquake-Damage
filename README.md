@@ -37,7 +37,7 @@ The following libraries will be installed using Pip with Python 3.7 to run the f
    * Seaborn
    
  ## Result
- The main findings of the project can be found on this [blogpost]()
+ The main findings of the project can be found on this [blogpost](https://medium.com/@oyelamifiyin/richters-predictor-modeling-earthquake-damage-b44e3dbdaef)
  
  ## License 
   License: [MIT](https://www.mit.edu/)
